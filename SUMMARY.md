@@ -1,6 +1,6 @@
-# Summary
+# Table of contents
 
-* [Introduction](introduction.md)
+* [Introduction](README.md)
 * [Key Features](key-features.md)
 * [Installation Guide](installation-guide.md)
 * [Configuration](configuration.md)
